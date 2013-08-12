@@ -4,7 +4,7 @@ Simple app to test bug in cancan gem
 
 To reproduce the issue just perform these steps:
 
-* git clone https://github.com/chrosciu/cancan_test.git
+* git clone {https://github.com/chrosciu/cancan_test.git}[https://github.com/chrosciu/cancan_test.git]
 * bundle
 * rake
 
